@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "html"
+    },
+    {
+      "id": 2,
+      "name": "css"
+    },
+    {
+      "id": 3,
+      "name": "javascript"
+    },
+    {
+      "id": 4,
+      "name": "php"
+    },
+    {
+      "id": 5,
+      "name": "python"
+    },
+    {
+      "id": 6,
+      "name": "perl"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "postTitle": "Html Nedir ? ",
+      "postText": "Hiper Metin İşaretleme Dili web sayfalarını oluşturmak için kullanılan standart metin işaretleme dilidir. Dilin son sürümü HTML5'tir. HTML, bir programlama dili olarak tanımlanamaz. Zira HTML kodlarıyla kendi başına çalışan bir program yazılamaz.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.01.2020",
+      "postImage": "data:image/png;base64,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",
+      "slug": "html-nedir",
+      "category": "html"
+    },
+    {
+      "id": 2,
+      "postTitle": "Css Nedir ? ",
+      "postText": "Cascading Style Sheets, HTML'e ek olarak metin ve format biçimlendirme alanında fazladan olanaklar sunan bir işaretleme dilidir.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.01.2020",
+      "postImage": "https://lh3.googleusercontent.com/proxy/piajNcH9IHkG1Cs5jauBu-Jxwyio-loGNZUh3XBWZ2LJXUXmm9VNOmZXxuomnmfQ1YgVfSYPgsqtz-zp46esvjOhEym6MiW1HCvJHPoUUw0lhXWb0x3-ig",
+      "slug": "css-nedir",
+      "category": "css"
+    },
+    {
+      "id": 3,
+      "postTitle": "JavaScript Nedir ? ",
+      "postText": "JavaScript, yaygın olarak web tarayıcılarında kullanılmakta olan dinamik bir programlama dilidir.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.01.2020",
+      "postImage": "https://kodedu.com/wp-content/uploads/2014/05/javascript-egitimi.png",
+      "slug": "javascript-nedir",
+      "category": "javascript"
+    },
+    {
+      "id": 4,
+      "postTitle": "React JS nedir ? ",
+      "postText": "React kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısı. Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan React, Model-View-Controller prensibine uygun olarak oluşturulmuştur.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.01.2020",
+      "postImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png",
+      "slug": "reactjs-nedir",
+      "category": "javascript"
+    },
+    {
+      "id": 5,
+      "postTitle": "Angular JS Nedir ? ",
+      "postText": "AngularJS Google tarafından desteklenen, dünya genelinde yazılımcılar tarafından katkı sağlanan açık kaynak kodlu web uygulama çatısıdır. Javascript ile yazılan Angular, MVC prensiplerine sadık kalınarak tek sayfalık uygulamalar yazmayı mümkün kılmaktadır.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "4.01.2020",
+      "postImage": "https://webinsani.com/wp-content/uploads/2019/12/angular-js-nedir.jpg",
+      "slug": "angularjs-nedir",
+      "category": "javascript"
+    },
+    {
+      "id": 6,
+      "postTitle": "VueJS nedir ? ",
+      "postText": "Vue.js kullanıcı arayüzleri ve tek sayfa uygulamalar inşa etmek için kullanılan açık kaynak Javascript iskeleti.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "10.01.2020",
+      "postImage": "https://www.mediaclick.com.tr/mp-include/uploads/2018/08/vuejs.png",
+      "slug": "vuejs-nedir",
+      "category": "javascript"
+    },
+    {
+      "id": 7,
+      "postTitle": "NodeJS nedir ?",
+      "postText": "Node.js, açık kaynaklı, sunucu tarafında çalışan ve ağ bağlantılı uygulamalar için geliştirilmiş bir çalıştırma ortamıdır. Node.js uygulamaları genelde istemci tarafı betik dili olan JavaScript kullanılarak geliştirilir.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "12.01.2020",
+      "postImage": "https://miro.medium.com/max/590/1*2FxG2XPw7IG48AhdCORB0Q.png",
+      "slug": "nodejs-nedir",
+      "category": "javascript"
+    },
+    {
+      "id": 8,
+      "postTitle": "Php Nedir ? ",
+      "postText": "PHP: Hypertext Preprocessor, internet için üretilmiş, sunucu taraflı, çok geniş kullanımlı, genel amaçlı, içerisine HTML gömülebilen betik ve programlama dilidir. İlk kez 1995 yılında Rasmus Lerdorf tarafından yaratılan PHP'nin geliştirilmesi bugün PHP topluluğu tarafından sürdürülmektedir.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.05.2020",
+      "postImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+      "slug": "php-nedir",
+      "category": "php"
+    },
+    {
+      "id": 9,
+      "postTitle": "Laravel Nedir ? ",
+      "postText": "Laravel, MVC yapısında web uygulamaları geliştirme için tasarlanmış ücretsiz, açık kaynak PHP web uygulama iskeletidir. Laravel, GitHub sitesinde barındırılan kaynak kodu ile birlikte, MIT lisansı altında yayınlandı.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "12.05.2020",
+      "postImage": "https://miro.medium.com/max/934/1*HNz6D6ur44z6ohw7abccog.png",
+      "slug": "laravel-nedir",
+      "category": "php"
+    },
+    {
+      "id": 10,
+      "postTitle": "Codeigniter Nedir ?",
+      "postText": "CodeIgniter, PHP ile dinamik uygulamalar geliştirmek için geliştirilmiş bir web uygulama iskeletidir. \"Geliştiricilerin çok daha hızlı proje geliştirmeleri hedef edilmiştir. En sık ihtiyaç duyacağınız kütüphaneleri kullanarak zaman kazanabilirsiniz.\" İlk sürüm 28 Şubat 2006 tarihinde yayınlandı.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "19.05.2020",
+      "postImage": "https://2.bp.blogspot.com/-KSN2AlCx2Xs/Uhj5zPMAcsI/AAAAAAAAAFs/Dcgg_Cp_s3c/s1600/ugur_keskenler_codeigniter.jpg",
+      "slug": "codeigniter-nedir",
+      "category": "php"
+    },
+    {
+      "id": 11,
+      "postTitle": "Python Nedir ?",
+      "postText": "Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Girintilere dayalı basit sözdizimi, dilin öğrenilmesini ve akılda kalmasını kolaylaştırır. Bu da ona söz diziminin ayrıntıları ile vakit yitirmeden programlama yapılmaya başlanabilen bir dil olma özelliği kazandırır.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "01.06.2020",
+      "postImage": "https://muhendistan.com/wp-content/uploads/2018/12/47571761_669245923477299_106631805892820992_n.jpg",
+      "slug": "python-nedir",
+      "category": "python"
+    },
+    {
+      "id": 12,
+      "postTitle": "Perl Nedir ? ",
+      "postText": "Perl, bir dil bilimci olup NASA'da sistem yöneticisi olarak çalışan Larry Wall tarafından geliştirilmiş bir programlama dilidir.",
+      "postAuthor": "Ahmet Ugur",
+      "postDate": "15.06.2020",
+      "postImage": "data:image/jpeg;base64,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",
+      "slug": "perl-nedir",
+      "category": "perl"
+    }
+  ]
+}
